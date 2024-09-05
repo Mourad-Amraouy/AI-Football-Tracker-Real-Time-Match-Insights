@@ -4,6 +4,8 @@
 # ⚽ AI Football Tracker: Real-Time Match Insights
 
 Welcome to **AI Football Tracker**! This project revolutionizes how football is analyzed, bringing the game to life through advanced computer vision techniques. Our AI system detects players, referees, goalkeepers, and the ball, offering real-time visualizations and insights into match dynamics. Whether you're a football fan, data enthusiast, or AI researcher, this project will ignite your passion for the sport and technology!
+![AI Football Tracker](images/Screenshot 2024-09-05 205919.png)
+
 
 ## 🌟 Key Features
 
