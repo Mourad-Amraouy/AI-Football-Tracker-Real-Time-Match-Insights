@@ -46,7 +46,7 @@ Tracking Model: BoTSORT is used for accurate multi-object tracking.
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/Supernova1744/AI-Football-Tracker-Real-Time-Match-Insights.git
+   git clone  https://github.com/Mourad-Amraouy/AI-Football-Tracker-Real-Time-Match-Insights.git
    ```
 2. Navigate to the project directory:
    ```bash
